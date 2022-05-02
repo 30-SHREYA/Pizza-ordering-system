@@ -4,4 +4,4 @@ Pizza Ordering System is a console based project. Java project which implemented
 
 # Language used-
 
--Core java
+Core java
